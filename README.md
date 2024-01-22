@@ -1,3 +1,5 @@
+<img src="./Logos/DESP-logo-lateral_black.png" alt="drawing" width="300"/>
+
 # 🌍 DestinE Core Service Platform (DESP) Documentation Repository
 
 ## Overview
